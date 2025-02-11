@@ -1,0 +1,1 @@
+This repository contains all Homework, Tutorials, and Projects from the course “Astrophysical Data Reduction and Analysis Techniques” offered by the Department of Astronomy, University of Belgrade (Instructor: Prof. Dragana Ilić) as part of the Erasmus Mundus Master’s in Astrophysics and Space Science - 3rd Semester (https://www.master-mass.eu)
